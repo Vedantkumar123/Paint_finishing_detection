@@ -1,0 +1,13 @@
+names:
+- Non_primered
+- Primered
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: finishing_detection
+  url: https://universe.roboflow.com/machinerydetection/finishing_detection/dataset/3
+  version: 3
+  workspace: machinerydetection
+test: ../test/images
+train: /content/drive/MyDrive/Colab_Notebooks/Machine_finishing/model_V2/finishing_detection-3/train/images
+val: /content/drive/MyDrive/Colab_Notebooks/Machine_finishing/model_V2/finishing_detection-3/valid/images

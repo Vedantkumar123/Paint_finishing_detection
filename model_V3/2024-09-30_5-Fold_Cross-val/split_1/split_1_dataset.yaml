@@ -1,0 +1,6 @@
+names:
+- Non_primered
+- Primered
+path: /content/drive/MyDrive/Colab_Notebooks/Machine_finishing/model_V3/2024-09-30_5-Fold_Cross-val/split_1
+train: train
+val: val
